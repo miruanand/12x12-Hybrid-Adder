@@ -1,0 +1,6 @@
+*.vcd
+*.jou
+work/
+transcript
+sim
+*.o
